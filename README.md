@@ -5,7 +5,7 @@ The Medical Chatbot is an AI-driven system designed to assist users in assessing
 
 
 ## Features:
-Symptom-Based Diagnosis: Suggests potential conditions based on reported symptoms.
+Symptom-Based Diagnosis: Suggests potential conditions based on reported symptoms.<br>
 Personalized Healthcare Guidance: Offers tailored dietary recommendations and health management advice.
 Medication Information: Provides accurate drug details using FDA integration.
 Medical Alerts: Sends reminders for medications, appointments, and routine checkups.
