@@ -16,6 +16,11 @@ Secure Data Management: Utilizes a MySQL database to store user profiles and cha
 ## Installation
 ## Prerequisites
 Python 3.8 or higher
-Required libraries (listed in requirements.txt)
+Required libraries 
+
+
+# Clone the repository:
+git clone https://github.com/bhasithsaiyandra/Medical-chatbot.git <br>
+cd medical-chatbot
 
 
