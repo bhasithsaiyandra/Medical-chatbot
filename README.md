@@ -13,3 +13,9 @@ Voice Assistant: Enables hands-free interaction for ease of use.<br>
 Secure Data Management: Utilizes a MySQL database to store user profiles and chat histories.<br>
 
 
+## Installation
+## Prerequisites
+Python 3.8 or higher
+Required libraries (listed in requirements.txt)
+
+
