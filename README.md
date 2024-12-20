@@ -6,10 +6,10 @@ The Medical Chatbot is an AI-driven system designed to assist users in assessing
 
 ## Features:
 Symptom-Based Diagnosis: Suggests potential conditions based on reported symptoms.<br>
-Personalized Healthcare Guidance: Offers tailored dietary recommendations and health management advice.
-Medication Information: Provides accurate drug details using FDA integration.
-Medical Alerts: Sends reminders for medications, appointments, and routine checkups.
-Voice Assistant: Enables hands-free interaction for ease of use.
-Secure Data Management: Utilizes a MySQL database to store user profiles and chat histories.
+Personalized Healthcare Guidance: Offers tailored dietary recommendations and health management advice.<br>
+Medication Information: Provides accurate drug details using FDA integration.<br>
+Medical Alerts: Sends reminders for medications, appointments, and routine checkups.<br>
+Voice Assistant: Enables hands-free interaction for ease of use.<br>
+Secure Data Management: Utilizes a MySQL database to store user profiles and chat histories.<br>
 
 
