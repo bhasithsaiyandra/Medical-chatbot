@@ -15,8 +15,7 @@ Secure Data Management: Utilizes a MySQL database to store user profiles and cha
 
 ## Installation
 ## Prerequisites
-Python 3.8 or higher
-Required libraries 
+Python 3.8 
 
 
 # Clone the repository:
